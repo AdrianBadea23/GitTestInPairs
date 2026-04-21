@@ -1,0 +1,18 @@
+// fisier 2
+
+https://github.com/AdrianBadea23/GitTestInPairs
+git clone https://github.com/AdrianBadea23/GitTestInPairs.git
+cd GitTestInPairs
+git branch
+git checkout -b adp
+git branch
+git push --set-upstream origin adp
+git branch
+git status
+git add .
+git commit -m "Testing working commits for Alex"
+git push
+git pull
+git branch -a 
+git stash
+git checkout ab
