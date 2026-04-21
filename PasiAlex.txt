@@ -1,0 +1,7 @@
+https://github.com/AdrianBadea23/GitTestInPairs
+git clone https://github.com/AdrianBadea23/GitTestInPairs.git
+cd GitTestInPairs
+git branch
+git checkout -b adp
+git branch
+git push --set-upstream origin adp
